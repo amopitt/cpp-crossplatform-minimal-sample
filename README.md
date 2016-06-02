@@ -1,7 +1,7 @@
 # ComboSample
 
 ## Introduction
-This sample demonstrates building an app with Google Play Games on iOS and Android with a single C++ code base.
+This sample demonstrates building an app with Google Play Games on iOS and Android with a single C++ code base. Test git integration.
 
 ## Project Structure
 
